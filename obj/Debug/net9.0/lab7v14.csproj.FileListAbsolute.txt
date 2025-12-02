@@ -1,0 +1,15 @@
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\bin\Debug\net9.0\lab7v14.exe
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\bin\Debug\net9.0\lab7v14.deps.json
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\bin\Debug\net9.0\lab7v14.runtimeconfig.json
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\bin\Debug\net9.0\lab7v14.dll
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\bin\Debug\net9.0\lab7v14.pdb
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\obj\Debug\net9.0\lab7v14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\obj\Debug\net9.0\lab7v14.AssemblyInfoInputs.cache
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\obj\Debug\net9.0\lab7v14.AssemblyInfo.cs
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\obj\Debug\net9.0\lab7v14.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\obj\Debug\net9.0\lab7v14.sourcelink.json
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\obj\Debug\net9.0\lab7v14.dll
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\obj\Debug\net9.0\refint\lab7v14.dll
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\obj\Debug\net9.0\lab7v14.pdb
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\obj\Debug\net9.0\lab7v14.genruntimeconfig.cache
+C:\Users\Dell\OOP-Rohalinska_IPZ32\lab7v14\obj\Debug\net9.0\ref\lab7v14.dll
